@@ -1,5 +1,5 @@
 # ICSE-2013-LASE
-an example-based program transformation tool for locating and applying systematic edits
+An example-based program transformation tool for locating and applying systematic edits
 
 
 ***
@@ -8,7 +8,7 @@ This repository contains information related to the tool LASE presented in the I
 
 You can find the paper on the folloing [link] (http://dl.acm.org/citation.cfm?id=2486995).
 
-This repository is not the original repository for this tool.
+This repository <i>is not</i> the original repository for this tool.
 
  In this repository, for LASE you will find:
 
