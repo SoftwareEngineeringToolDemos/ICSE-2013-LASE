@@ -15,5 +15,5 @@ This repository <i>is not</i> the original repository for this tool.
   - :x: Source code (not available)
   - :x: Executable tool (not available)
 
-   This repository was constructed by [Shraddha Naik] (https://github.com/Shraddha512) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
+This repository was constructed by [Shraddha Naik] (https://github.com/Shraddha512) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
 
