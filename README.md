@@ -4,16 +4,18 @@ An example-based program transformation tool for locating and applying systemati
 
 ***
 
-This repository contains information related to the tool LASE presented in the International Conference on Software Engineering, 2013.
+This repository contains information related to the tool LASE presented in the International Conference on Software Engineering, 2013. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2486995).
 
-You can find the paper on the folloing [link] (http://dl.acm.org/citation.cfm?id=2486995).
-
-This repository <i>is not</i> the original repository for this tool.
+This repository _is not_ the original repository for this tool.
 
  In this repository, for LASE you will find:
 
-  - :x: Source code (not available)
-  - :x: Executable tool (not available)
+* :x: Source code
+* :x: Binaries
+* :x: The original tool
 
 This repository was constructed by [Shraddha Naik] (https://github.com/Shraddha512) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
 
+## Attribution
+
+Author of tool: John Jacobellis, Na Meng and Miryung Kim
