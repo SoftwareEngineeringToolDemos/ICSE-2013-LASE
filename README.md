@@ -15,6 +15,7 @@ This repository _is not_ the original repository for this tool.
 * :x: The original tool
 
 This repository was constructed by [Shraddha Naik] (https://github.com/Shraddha512) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
+Thanks to John Jacobellis for his help.
 
 ## Attribution
 
